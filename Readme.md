@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/AppointmentDrop/Form1.cs) (VB: [Form1.vb](./VB/AppointmentDrop/Form1.vb))
+<!-- default file list end -->
 # How to drag and relocate the entire series of recurring appointments
 
 
